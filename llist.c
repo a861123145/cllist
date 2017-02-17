@@ -1,3 +1,7 @@
+/*
+ * https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
